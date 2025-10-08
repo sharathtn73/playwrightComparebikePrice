@@ -1,0 +1,5 @@
+₹ 14,000
+Loding URL https://www.drivex.in/?search=true
+Clicking on (//p[contains(text(),'Bangalore')])[2]
+Loding URL https://www.drivex.in/?search=true
+entering textRoyal Enfield classic 350

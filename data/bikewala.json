@@ -1,0 +1,10 @@
+{
+  "url" : "https://www.bikewale.com/used/",
+  "BikewaleSearch" : "input[placeholder*='Search your bike here']",
+  "BikewaleSearchBtn" : "//button[normalize-space()='Search']",
+  "citydropdown":"#drpCities_chosen",
+  "cityvalue":"Bangalore",
+  "searchCityBudget":"#searchCityBudget",
+  "royalEnfiled":"//p[normalize-space(text())='Royal Enfield']/parent::div/following-sibling::div",
+  "SortBy":"select[aria-label='Select field']"
+}

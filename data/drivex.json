@@ -1,0 +1,5 @@
+{
+  "url" : "https://www.drivex.in/?search=true",
+  "BangloreCity":"(//p[contains(text(),'Bangalore')])[2]",
+  "searchbox":"(//label[@for='inputField'])[4]"
+}
