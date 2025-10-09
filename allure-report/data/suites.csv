@@ -1,2 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","22275","get lowest second hand bike price","chromium","Thu Oct 09 07:43:05 IST 2025","passed","Thu Oct 09 07:43:28 IST 2025","","compagebikeprice.spec.ts","",""
+"","29146","get lowest second hand bike price","webkit","Thu Oct 09 14:23:47 IST 2025","passed","Thu Oct 09 14:24:16 IST 2025","","compagebikeprice.spec.ts","",""
+"","27001","get lowest second hand bike price","firefox","Thu Oct 09 14:22:32 IST 2025","passed","Thu Oct 09 14:22:59 IST 2025","","compagebikeprice.spec.ts","",""
+"","21919","get lowest second hand bike price","chromium","Thu Oct 09 14:22:08 IST 2025","passed","Thu Oct 09 14:22:30 IST 2025","","compagebikeprice.spec.ts","",""

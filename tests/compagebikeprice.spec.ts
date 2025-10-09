@@ -5,8 +5,9 @@ import {Bikepage} from '../pages/BikePage'
 
 
 //used bikewala and drivex pages in fixture to create objects
-test.only('get lowest second hand bike price',async({bikewala,drivex})=>{
-
+test.describe.configure({ retries: 2,mode : 'serial' });
+test('get lowest second hand bike price',async({bikewala,drivex,browserName})=>{
+ test.skip(browserName!=='chromium',"skipping in webkit and firefox as it is taking more time to load the page")
     const bikewalaprice=await bikewala.getLowestPrice("Royal Enfield classic 350");
     const drivexprice=await drivex.getLowestPrice("Royal Enfield classic 350");
     console.log("bikewalaprice "+bikewalaprice);

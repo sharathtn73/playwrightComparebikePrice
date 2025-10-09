@@ -1,0 +1,2170 @@
+# Page snapshot
+
+```yaml
+- generic:
+  - generic:
+    - generic:
+      - generic:
+        - banner:
+          - generic:
+            - generic:
+              - img
+            - generic:
+              - button:
+                - generic: Bangalore
+                - img
+            - generic:
+              - generic:
+                - text: Search by
+                - generic: "'Model (e.g., R15, Duke)'"
+              - textbox
+              - generic:
+                - img
+          - generic:
+            - generic:
+              - link:
+                - /url: /buy-used-bikes-in-bangalore
+                - generic:
+                  - img
+                  - paragraph: Buy
+              - link:
+                - /url: /sell-bikes-in-bangalore
+                - generic:
+                  - img
+                  - paragraph: Sell
+              - link:
+                - /url: /bike-services-in-bangalore
+                - generic:
+                  - img
+                  - paragraph: Service
+              - link:
+                - /url: /buy-used-royal-enfield_classic-350-bikes-in-bangalore?login=true
+                - generic:
+                  - img
+                  - paragraph: Wishlist
+            - generic:
+              - generic:
+                - generic:
+                  - img
+              - paragraph: Account
+              - img
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - heading [level=3]:
+                  - button [expanded]:
+                    - paragraph: Bike Type
+                    - img
+                - region:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Motorcycle
+                        - paragraph: "60"
+                      - img
+                    - generic:
+                      - generic:
+                        - paragraph: Scooter
+                        - paragraph: "0"
+                      - img
+              - generic:
+                - heading [level=3]:
+                  - button [expanded]:
+                    - paragraph: Category
+                    - img
+                - region:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+                          - paragraph: DriveX Assured
+                        - paragraph: "24"
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+                          - paragraph: DriveX Direct
+                        - paragraph: "35"
+              - generic:
+                - heading [level=3]:
+                  - button [expanded]:
+                    - paragraph: Price
+                    - img
+                - region:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox [disabled]
+                        - paragraph: Less than ₹50,000
+                      - paragraph: "0"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox [disabled]
+                        - paragraph: Less than ₹75,000
+                      - paragraph: "0"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox [disabled]
+                        - paragraph: Less than ₹100,000
+                      - paragraph: "0"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: Less than ₹125,000
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: Less than ₹150,000
+                      - paragraph: "8"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: Less than ₹200,000
+                      - paragraph: "33"
+              - generic:
+                - heading [level=3]:
+                  - button [expanded]:
+                    - paragraph: Make
+                    - img
+                - region:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - textbox:
+                            - /placeholder: Search brand or model
+                          - generic:
+                            - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox [checked=mixed]:
+                                    - generic:
+                                      - img
+                                  - generic:
+                                    - generic: Royal Enfield
+                                    - generic: "119"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: TVS
+                                    - generic: "247"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Yamaha
+                                    - generic: "195"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Bajaj
+                                    - generic: "244"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Hero
+                                    - generic: "119"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Suzuki
+                                    - generic: "59"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Honda
+                                    - generic: "145"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: KTM
+                                    - generic: "56"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Jawa
+                                    - generic: "17"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Yezdi
+                                    - generic: "13"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Kawasaki
+                                    - generic: "7"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Aprilia
+                                    - generic: "15"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: BMW
+                                    - generic: "6"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Triumph
+                                    - generic: "4"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Husqvarna
+                                    - generic: "4"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Mahindra
+                                    - generic: "2"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Benelli
+                                    - generic: "4"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Harley Davidson
+                                    - generic: "4"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Piaggio
+                                    - generic: "3"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Ducati
+                                    - generic: "1"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Vespa
+                                    - generic: "1"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Hyosung
+                                    - generic: "1"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: Keeway
+                                    - generic: "1"
+                                - img
+                        - generic:
+                          - generic:
+                            - heading [level=3]:
+                              - button:
+                                - paragraph:
+                                  - checkbox
+                                  - generic:
+                                    - generic: UM
+                                    - generic: "1"
+                                - img
+              - generic:
+                - heading [level=3]:
+                  - button [expanded]:
+                    - paragraph: KMs Driven
+                    - img
+                - region:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: Less than 5,000
+                      - paragraph: "7"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: Less than 10,000
+                      - paragraph: "17"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: Less than 15,000
+                      - paragraph: "26"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: Less than 20,000
+                      - paragraph: "32"
+              - generic:
+                - heading [level=3]:
+                  - button [expanded]:
+                    - paragraph: Year
+                    - img
+                - region:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: 2011 and above
+                      - paragraph: "59"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: 2013 and above
+                      - paragraph: "59"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: 2015 and above
+                      - paragraph: "59"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: 2017 and above
+                      - paragraph: "51"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: 2019 and above
+                      - paragraph: "43"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: 2021 and above
+                      - paragraph: "28"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - generic:
+                            - checkbox
+                        - paragraph: 2023 and above
+                      - paragraph: "9"
+              - generic:
+                - heading [level=3]:
+                  - button [expanded]:
+                    - paragraph: Locality
+                    - img
+                - region:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Electronic City
+                      - paragraph: "8"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Hoodi
+                      - paragraph: "4"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: BTM Second Stage
+                      - paragraph: "4"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: J. P. Nagar
+                      - paragraph: "3"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Marathahalli
+                      - paragraph: "3"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Anekal
+                      - paragraph: "2"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Varthur
+                      - paragraph: "2"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Kadugodi
+                      - paragraph: "2"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: J.P. Nagar
+                      - paragraph: "2"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Rajajinagar
+                      - paragraph: "2"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Nelamangala
+                      - paragraph: "2"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Indiranagar
+                      - paragraph: "2"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Banashankari
+                      - paragraph: "2"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Subramanyapura
+                      - paragraph: "2"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Rajarajeshwari Nagar
+                      - paragraph: "2"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Jakkuru
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Horamavu
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Attibele
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Yelahanka
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Jayanagar
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Gottigere
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Binnipete
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Whitefield
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: HSR Layout
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: BTM Layout
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Hongasandra
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Mahadevapura
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Hegganahalli
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Akshayanagar
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Sinthan Nagar
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Raghuvanahalli
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Madanayakahalli
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox
+                        - paragraph: Basaveshwar Nagar
+                      - paragraph: "1"
+                    - generic:
+                      - generic:
+                        - paragraph:
+                          - checkbox [disabled]
+                        - paragraph: Nagdevanahalli
+                      - paragraph: "0"
+        - generic:
+          - heading [level=6]: Home / Used Bikes in Bangalore
+          - generic:
+            - generic:
+              - paragraph: Clear all
+            - generic:
+              - paragraph: classic 350
+              - img
+          - generic:
+            - heading [level=2]: Find a DriveX store near you
+            - generic:
+              - generic:
+                - generic: Marathahalli
+                - img
+              - generic:
+                - generic: Indiranagar
+                - img
+              - generic:
+                - generic: Andhrahalli
+                - img
+              - generic:
+                - generic: Bannerghatta
+                - img
+              - generic:
+                - generic: Malagala
+                - img
+              - generic:
+                - generic: Raghuvanahalli
+                - img
+              - generic:
+                - generic: TC Palya 2
+                - img
+              - generic:
+                - generic: TC Palya 1
+                - img
+              - generic:
+                - generic: Hoodi
+                - img
+              - generic:
+                - generic: BTM Second Stage
+                - img
+              - generic:
+                - generic: Nelamangala
+                - img
+              - generic:
+                - generic: Anekal
+                - img
+              - generic:
+                - generic: Nagarbhavi
+                - img
+              - generic:
+                - generic: Varthur
+                - img
+              - generic:
+                - generic: Banashankari
+                - img
+              - generic:
+                - generic: Rajajinagar
+                - img
+              - generic:
+                - generic: Nagdevanahalli
+                - img
+              - generic:
+                - generic: Electronic City
+                - img
+              - generic:
+                - generic: J.P. Nagar
+                - img
+          - generic:
+            - heading [level=1]: 60 Used royal enfield+classic 350 Bikes in Bangalore
+            - combobox [expanded]:
+              - generic: "Sort by: Recommended"
+              - img
+          - generic:
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2021-at-drivex-sri-venkateshwara-motors-services-188412
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 9,896 KMs • 1st Owner • 2021
+                      - generic:
+                        - paragraph: ₹2,02,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 4%
+                          - generic: ₹2,09,999
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,564
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Anekal, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2022-at-drivex-electronic-city-greenage-motors-216974
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 27,579 KMs • 1st Owner • 2022
+                      - generic:
+                        - paragraph: ₹2,25,500
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 4%
+                          - generic: ₹2,34,500
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹5,095
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Electronic City, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2020-at-drivex-electronic-city-greenage-motors-239523
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 12,802 KMs • 1st Owner • 2020
+                      - generic:
+                        - paragraph: ₹1,99,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 7%
+                          - generic: ₹2,12,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,496
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Electronic City, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-abs-in-bangalore-2019-at-drivex-electronic-city-greenage-motors-236104
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350 ABS
+                        - paragraph: 13,515 KMs • 1st Owner • 2019
+                      - generic:
+                        - paragraph: ₹1,89,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,270
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Electronic City, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2020-at-drivex-electronic-city-greenage-motors-236091
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 27,173 KMs • 1st Owner • 2020
+                      - generic:
+                        - paragraph: ₹1,99,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 5%
+                          - generic: ₹2,09,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,496
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Electronic City, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2021-at-drivex-btm-layout-201441
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                      - generic:
+                        - generic:
+                          - generic: Extended Warranty
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 10,132 KMs • 1st Owner • 2021
+                      - generic:
+                        - paragraph: ₹2,05,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 5%
+                          - generic: ₹2,15,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,632
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: BTM Second Stage, Bangalore
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                    - generic: Finance Solutions for Two-Wheelers as Good as New
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+                        - generic: Upto 85% of vehicle cost
+                      - generic:
+                        - generic:
+                          - img
+                        - generic: Instant Approval
+                      - generic:
+                        - generic:
+                          - img
+                        - generic: Best-in-class Interest Rate
+                - generic:
+                  - img
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-signals-edition-in-bangalore-2023-at-drivex-whitefield-hoodi-309234
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350 Signals Edition
+                        - paragraph: 6,037 KMs • 1st Owner • 2023
+                      - generic:
+                        - paragraph: ₹2,19,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 5%
+                          - generic: ₹2,30,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,948
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Hoodi, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2022-at-drivex-highlander-ventures-llp-272255
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 27,174 KMs • 1st Owner • 2022
+                      - generic:
+                        - paragraph: ₹2,11,500
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 4%
+                          - generic: ₹2,20,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,778
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Varthur, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2022-at-drivex-electronic-city-greenage-motors-290897
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 4,237 KMs • 1st Owner • 2022
+                      - generic:
+                        - paragraph: ₹2,20,500
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 4%
+                          - generic: ₹2,29,500
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,982
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Electronic City, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2016-at-drivex-electronic-city-greenage-motors-309469
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 44,621 KMs • 1st Owner • 2016
+                      - generic:
+                        - paragraph: ₹1,48,500
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹3,355
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Electronic City, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2022-at-drivex-btm-layout-330085
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                      - generic:
+                        - generic:
+                          - generic: Extended Warranty
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 5,125 KMs • 1st Owner • 2022
+                      - generic:
+                        - paragraph: ₹2,01,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 5%
+                          - generic: ₹2,11,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,541
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: BTM Second Stage, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2022-at-drivex-indiranagar-328972
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                      - generic:
+                        - generic:
+                          - generic: Extended Warranty
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 28,416 KMs • 2nd Owner • 2022
+                      - generic:
+                        - paragraph: ₹1,95,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 5%
+                          - generic: ₹2,05,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,406
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Indiranagar, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2017-at-drivex-sri-venkateshwara-motors-services-326821
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 34,474 KMs • 1st Owner • 2017
+                      - generic:
+                        - paragraph: ₹1,68,500
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹3,807
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Anekal, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2021-at-drivex-marathahalli-335583
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                      - generic:
+                        - generic:
+                          - generic: Extended Warranty
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 11,674 KMs • 1st Owner • 2021
+                      - generic:
+                        - paragraph: ₹2,09,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 5%
+                          - generic: ₹2,20,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,722
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Marathahalli, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2020-at-drivex-electronic-city-greenage-motors-307539
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 2,109 KMs • 1st Owner • 2020
+                      - generic:
+                        - paragraph: ₹1,98,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 4%
+                          - generic: ₹2,06,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,473
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Electronic City, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2021-at-drivex-marathahalli-320777
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                      - generic:
+                        - generic:
+                          - generic: Extended Warranty
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 11,287 KMs • 1st Owner • 2021
+                      - generic:
+                        - paragraph: ₹2,05,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 5%
+                          - generic: ₹2,15,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,632
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Marathahalli, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-signals-edition-in-bangalore-2022-at-drivex-svr-motors-68472
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350 Signals Edition
+                        - paragraph: 2,980 KMs • 1st Owner • 2022
+                      - generic:
+                        - paragraph: ₹2,20,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 3%
+                          - generic: ₹2,27,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,970
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Nelamangala, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2022-at-drivex-svr-motors-340985
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 11,618 KMs • 1st Owner • 2022
+                      - generic:
+                        - paragraph: ₹2,18,000
+                        - paragraph:
+                          - generic:
+                            - img
+                            - text: 3%
+                          - generic: ₹2,25,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,925
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Nelamangala, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-ash-white-with-dual-channel-abs-in-bangalore-2020-at-drivex-sree-sukra-automobiles-222600
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350 Ash White With Dual Channel ABS
+                        - paragraph: 25,419 KMs • 1st Owner • 2020
+                      - generic:
+                        - paragraph: ₹2,02,500
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,575
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: J.P. Nagar, Bangalore
+            - generic:
+              - link:
+                - /url: https://www.drivex.in/buy-royal-enfield-classic-350-in-bangalore-2020-at-drivex-whitefield-hoodi-350866
+                - generic:
+                  - region:
+                    - generic:
+                      - generic:
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                        - group:
+                          - generic:
+                            - img
+                    - generic:
+                      - button
+                      - button
+                      - button
+                      - button
+                      - button
+                  - generic:
+                    - generic:
+                      - img
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img
+                        - text: DriveX Assured
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Royal Enfield Classic 350
+                        - paragraph: 22,894 KMs • 1st Owner • 2020
+                      - generic:
+                        - paragraph: ₹1,92,000
+                        - paragraph:
+                          - text: EMI from
+                          - generic: ₹4,338
+                  - generic:
+                    - generic:
+                      - img
+                      - paragraph: Hoodi, Bangalore
+      - generic:
+        - generic:
+          - heading [level=2]: Frequently asked questions
+          - generic:
+            - generic:
+              - button:
+                - heading [level=3]: What makes DriveX the best destination for buying a used bike in Bangalore?
+                - img
+              - generic:
+                - paragraph: DriveX distinguishes itself by providing 100% refurbished and certified used bikes in Bangalore. Each bike goes through rigorous inspections and over 100 stringent quality checkpoints to guarantee superior quality, unmatched reliability, and excellent performance. We offer a 1-year warranty along with three free services. Enjoy a hassle-free RC transfer, comprehensive insurance, and flexible financing options, all while choosing from top brands like Honda, Hero, TVS, Bajaj, Yamaha, and Royal Enfield. With endless choices and our best price guarantee on refurbished used bikes in Bangalore, you will surely find the perfect bike for your needs. Visit our stores to experience the difference!
+            - generic:
+              - button:
+                - heading [level=3]: How can I buy a used bike from DriveX?
+                - img
+              - generic:
+                - paragraph: To purchase a used bike from DriveX, you can book a test ride, explore the vehicle through a virtual WhatsApp tour, or visit our stores for more details. Once you’ve made your decision, complete your purchase at a DriveX showroom.
+            - generic:
+              - button:
+                - heading [level=3]: Where to buy a second-hand bike in Bangalore?
+                - img
+              - generic:
+                - paragraph: DriveX is the leading destination in Bangalore for purchasing high-quality second-hand bikes. Our showrooms offer a wide range of certified, 100% refurbished used bikes and scooters from trusted brands. With rigorous quality checks, transparent pricing, and a hassle-free documentation process—including seamless RC transfers and comprehensive insurance—you can confidently buy a second-hand bike that meets your needs.
+            - generic:
+              - button:
+                - heading [level=3]: What financing options are available when purchasing a used bike from DriveX?
+                - img
+              - generic:
+                - paragraph: DriveX provides flexible financing options for every second-hand bike. Our plans offer up to 85% financing with on-the-spot approval, making it easier and more affordable to own a premium two-wheeler. We have partnered with reputable finance providers such as TVS Credit, IDFC First Bank Limited, Bike Bazaar, Jana Small Finance Bank, and Deccan Finance Limited to offer competitive interest rates and a smooth approval process. With flexible loan tenures and personalized assistance, DriveX is dedicated to making your bike ownership experience seamless and hassle-free.
+            - generic:
+              - button:
+                - heading [level=3]: How to buy a second-hand bike on EMI?
+                - img
+              - generic:
+                - paragraph: Buying a second-hand bike on EMI from DriveX is simple and flexible. We offer competitive interest rates, affordable down payment options, and convenient loan tenures to suit different budgets. With minimal documentation and quick approvals, you can enjoy a hassle-free buying experience. Additionally, DriveX handles all the necessary steps—such as RC transfer and comprehensive insurance—ensuring a seamless ownership journey from start to finish.
+            - generic:
+              - button:
+                - heading [level=3]: What are the popular brands and models of used bikes available at DriveX?
+                - img
+              - generic:
+                - paragraph: Our extensive inventory features top brands including Bajaj, TVS, KTM, Yamaha, Royal Enfield, Hero, Honda, and Suzuki. Whether you're looking for a budget-friendly used bike, a stylish second-hand bike, or a reliable pre-owned option, DriveX offers choices to suit every rider's style and needs.
+            - generic:
+              - button:
+                - heading [level=3]: What are the price ranges for used bikes available at DriveX?
+                - img
+              - generic:
+                - paragraph: At DriveX, we cater to every budget by offering a variety of price filters that help you find the best second-hand bike price for your needs. Our pricing options range from less than ₹50,000 and going up to less than ₹200,000. Whether you’re looking for a budget-friendly used bike or a higher-end second-hand bike, our broad pricing categories ensure you can easily find the perfect ride without compromising on quality or performance.
+            - generic:
+              - button:
+                - heading [level=3]: What documents are required during bike delivery when purchasing a used bike?
+                - img
+              - generic:
+                - paragraph: When purchasing a used bike, it is important to have the necessary documents ready for a smooth delivery process. Keep the Aadhaar card for identity and address verification, PAN card for financial transactions, and bank details if opting for EMI or financing. DriveX ensures a hassle-free documentation process, making your used bike purchase seamless and convenient.
+            - generic:
+              - button:
+                - heading [level=3]: Do used bikes in Bangalore come with a warranty?
+                - img
+              - generic:
+                - paragraph: Yes, a warranty is available for used Bikes in Bangalore. DriveX offers refurbished bikes with a one-year warranty which covers specific components to protect your investments and three complimentary services, ensuring quality and peace of mind with every purchase.
+            - generic:
+              - button:
+                - heading [level=3]: Does DriveX have any showrooms in Bangalore?
+                - img
+              - generic:
+                - paragraph: DriveX operates several second-hand bike showrooms in Bangalore, located in areas such as Hoodi, Varthur, JP Nagar, Nagadevanahalli, Rajajinagar, Banashankari, Kamakshipalya, Electronic City, BTM Second Stage, and Soundarya Layout. We invite you to visit any of our stores, where you will find a wide selection of 100% refurbished used bikes that cater to your budget and riding preferences, ensuring a hassle-free buying experience.
+            - generic:
+              - button:
+                - heading [level=3]: What is the process for transferring the RC and obtaining insurance for a used bike purchased from DriveX?
+                - img
+              - generic:
+                - paragraph: When you buy a used bike from DriveX, we manage all documentation for a hassle-free RC transfer. Plus, we include 1-year comprehensive insurance, ensuring a seamless and worry-free ownership experience.
+            - generic:
+              - button:
+                - heading [level=3]: What is DriveX Direct?
+                - img
+              - generic:
+                - paragraph:
+                  - text: DriveX Direct is our category of
+                  - strong: used bike
+                  - text: s sold directly by owners. These
+                  - strong: second hand bikes
+                  - text: pass our basic quality checks but aren't refurbished by us.
+            - generic:
+              - button:
+                - heading [level=3]: How is DriveX Direct different from regular DriveX bikes?
+                - img
+              - generic:
+                - paragraph:
+                  - text: DriveX Direct bikes are verified but sold as-is by owners at their price, while regular DriveX
+                  - strong: Assured bikes
+                  - text: are fully refurbished with warranty included. Assured offers direct pricing at lower cost.
+            - generic:
+              - button:
+                - heading [level=3]: What verification do DriveX Direct bikes go through?
+                - img
+              - generic:
+                - paragraph:
+                  - text: DriveX Direct bikes go through document verification, seller identity confirmation, basic quality assessment, and RTO checks for every
+                  - strong: used bike
+                  - text: we list.
+            - generic:
+              - button:
+                - heading [level=3]: Do DriveX Direct bikes come with warranty or services?
+                - img
+              - generic:
+                - paragraph: DriveX Direct bikes do not come with warranty or free services since they're sold as-is. However, you can optionally purchase extended warranty, insurance packages, service packages, and RC transfer assistance.
+            - generic:
+              - button:
+                - heading [level=3]: Can I test ride a DriveX Direct bike?
+                - img
+              - generic:
+                - paragraph: Yes, test rides are available for all second hand bikes. We coordinate with the seller to arrange a convenient meeting time. We recommend thorough testing since these bikes don't come with our standard warranty.
+            - generic:
+              - button:
+                - heading [level=3]: How does pricing work for DriveX Direct bikes?
+                - img
+              - generic:
+                - paragraph: Pricing for DriveX Direct bikes works with owners setting their own prices when they sell used bikes. Our pricing engine suggests market rates, but the final decision is theirs. You can negotiate directly with most sellers.
+            - generic:
+              - button:
+                - heading [level=3]: What support does DriveX provide after I buy a Verified bike?
+                - img
+              - generic:
+                - paragraph: Support after buying includes optional services like RC transfer assistance, insurance support, and access to our service network for your used bike maintenance needs. Our role is to facilitate the transaction and provide services when you need them.
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - heading [level=2]: More about DriveX
+                - img
+              - generic:
+                - generic:
+                  - heading [level=2]: "Refurbished Excellence As Good as New: Second-Hand Bikes in Bangalore"
+                  - paragraph: Searching for the perfect second-hand bike in Bangalore? Look no further than DriveX, where you can find top-quality refurbished bikes that are certified, reliable, and as good as new. Each motorcycle is meticulously refurbished to look and perform like new, ensuring you get the best value for your investment. DriveX ensures that every motorcycle undergoes rigorous inspections and is evaluated at 390+ checkpoints to guarantee superior quality. Whether you need an affordable daily commuter or a reliable weekend ride, our extensive range has you covered. Experience premium quality at budget-friendly prices, and make your choice confidently with DriveX! With our commitment to excellence, you can trust that your next bike will not only meet but exceed your expectations, providing you with a seamless riding experience that feels just like new. Our collection of second-hand bikes in Bangalore features models suited to every need and style, ensuring you find your perfect ride. With DriveX, owning Second Hand Bikes in Bangalore is simple, affordable, and hassle-free. Visit us today to explore the best deals and premium options on second-hand bikes in Bangalore.
+                - generic:
+                  - heading [level=2]: "Discover Certified Used Bikes in Bangalore: Quality You Can Trust"
+                  - paragraph: Looking for a reliable used bike in Bangalore? Explore our range of 100% refurbished and certified Second Hand Bikes across Bangalore. Our commitment to top-quality standards ensures that every bike undergoes rigorous checks and is approved for performance and safety. Whether you’re a daily commuter or a weekend rider, our range of bikes caters to all your needs, providing excellent value for your investment. Experience the joy of owning a refurbished bike that balances affordability and performance seamlessly.
+                - generic:
+                  - heading [level=2]: "Buy 2nd Hand Bikes in Bangalore: Get Top Brands and Budget-Friendly Options"
+                  - paragraph: At DriveX, we bring you an extensive selection of top-quality 2nd hand bikes in Bangalore, featuring trusted brands like Bajaj, TVS, KTM, Yamaha, Royal Enfield, Hero, Honda, and Suzuki. With a wide range of options tailored to fit every rider’s budget and preference, our inventory offers sleek scooters for city commutes and powerful bikes for long-distance adventures. Whether you're looking for a budget-friendly commuter bike, we’ve got you covered. Our Second Hand Bikes undergo rigorous quality checks to ensure they deliver unmatched performance and reliability. With a focus on affordability and variety, DriveX caters to both new riders and seasoned bikers. Explore our range today and experience why DriveX is the go-to destination for the best 2nd hand bikes in Bangalore!
+                - generic:
+                  - heading [level=2]: "Buy Used Bikes in Bangalore: Hassle-Free Ownership, Guaranteed"
+                  - paragraph: Looking for a seamless way to buy a used bike in Bangalore? At DriveX, we redefine convenience with our stress-free and hassle-free documentation process. Our streamlined buying experience ensures you spend less time on paperwork and more time riding your dream bike. Whether you want to book a test ride, explore the vehicle virtually through WhatsApp tours, or contact our stores for personalized assistance, we’ve got you covered every step of the way. Once you’re happy with your choice, simply complete your purchase at the DriveX showroom and drive home with confidence. Explore a range of bikes that combine affordability with top-notch performance, all curated to meet your unique needs. At DriveX, buying used bikes in Bangalore is not just simple—it’s a ride into the future of effortless ownership!
+                - generic:
+                  - heading [level=2]: "Second-Hand Bike Dealers Bangalore: 85% Financing & Unbeatable Perks Await"
+                  - paragraph: Finding trusted second-hand bike dealers in Bangalore who prioritize quality and customer satisfaction has never been easier. With DriveX, you can rest assured knowing you’ll receive only the best value. For anyone searching for second-hand bike dealers in Bangalore, DriveX stands out as the ultimate destination for Refurbished premium bikes. Finding reliable second-hand bike dealers in Bangalore is effortless with DriveX. Our dealership offers certified refurbished bikes backed by a 1-year warranty and 3 free services for your peace of mind. We provide flexible financing options, including up to 85% financing, on-spot approval, and the best-in-class interest rates, making premium bikes accessible to everyone. Our partnerships with leading finance providers ensure competitive rates and a hassle-free approval process. With flexible loan tenures and personalized assistance, DriveX ensures that your bike ownership journey is seamless. Ready to make your dream bike yours? Explore DriveX Finance Options and experience financing that’s simple, fast, and tailored just for you. Visit DriveX today for the best deals on 2nd hand bikes in Bangalore—where quality meets affordability.
+                - generic:
+                  - heading [level=2]: "Feel the Ride: Discover and Test Drive Used Two-Wheelers in Bangalore!"
+                  - paragraph: Discover the thrill of riding your dream bike with our certified used two-wheelers in Bangalore. At DriveX, we emphasize your satisfaction by offering test rides that allow you to experience the bike's quality firsthand. Our two-wheelers undergo more than 390+ checkpoints, ensuring unmatched reliability and performance. From sleek designs to robust engines, our collection of two-wheelers caters to every need and style. Whether it’s for your daily commute or weekend escapades, our bikes deliver excellence and style. Visit DriveX today, explore the finest used two-wheelers in Bangalore, take a test ride, and redefine your biking journey with confidence and trust.
+                - generic:
+                  - heading [level=2]: "Second-Hand Bike Price in Bangalore: Unmatched Deals With 100% Refurbished"
+                  - paragraph: Why settle for less when you can own a bike that’s 100% refurbished to feel brand new? DriveX offers certified 2nd hand bikes in Bangalore that guarantee unbeatable quality at competitive prices. Each bike undergoes rigorous inspections and refurbishments to ensure peak performance and safety. From daily commuters to premium models, our collection caters to every rider's needs. Enjoy the perfect balance of affordability and quality with bikes that are tailored to deliver excellence. At DriveX, you’re not just buying an Second Hand Bikes—you’re investing in rides that offer value, reliability, and the joy of owning something as good as new. Excellence is our promise, and unbeatable deals are our trademark.
+                - generic:
+                  - heading [level=2]: "Second-hand bike showroom in Bangalore : Where Quality Meets Value"
+                  - paragraph: Step into our second-hand bike showroom in Bangalore and discover a world of certified, refurbished bikes designed for unmatched performance and reliability. At our second-hand bike showroom in Bangalore, every bike undergoes rigorous quality checks to ensure you receive the best resale value and riding experience. Our dedicated team makes your visit to the second-hand bike showroom in Bangalore seamless, providing personalized service and transparent deals. Visit our second hand bike showroom in Bangalore today and experience the convenience, quality, and unbeatable offers that set us apart. Trust our second-hand bike showroom to be your ultimate destination for finding your perfect ride!
+                - generic:
+                  - heading [level=2]: Why Buy From DriveX?
+                  - paragraph: "DriveX stands out in the pre-owned two-wheeler market by offering a comprehensive package of benefits that cater to the diverse needs of our customers. Here are the key reasons to choose DriveX for your next bike purchase: 100% Refurbished Bikes with Rigorous Quality Checks: Our bikes undergo over 390+ checkpoints, ensuring they look, feel, and perform like new. Comprehensive Warranty and Services: Enjoy peace of mind with a 1-year warranty and three free services included with every purchase. Hassle-Free RC Transfer and Insurance: We manage all documentation, including RC transfer, and provide 1-year comprehensive insurance, ensuring a seamless ownership experience. Flexible Financing Options: DriveX offers easy and flexible finance support, enabling you to own top-quality second-hand bikes without a tremendous financial burden. Discover Top Brands: Choose from a wide range of models from trusted brands like Honda, Hero, TVS, Bajaj, Yamaha, and Royal Enfield, catering to various preferences and budgets. Customer-Centric Approach: Our focus on customer satisfaction is evident through our branded showroom experience, flexible EMI options, and reliable after-sales service. By choosing DriveX, you are not just buying a bike; you're investing in a reliable, high-quality vehicle with unparalleled support and services, ensuring a smooth and enjoyable riding experience."
+        - generic:
+          - contentinfo:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                  - link:
+                    - /url: tel:+917666376661
+                    - button:
+                      - img
+                      - paragraph: "+917666376661"
+                - paragraph: We're committed to creating a technology-driven trustable ecosystem to sell two-wheelers and buy top-quality refurbished two-wheelers while making the process quick, easy and hassle-free.
+                - generic:
+                  - link:
+                    - /url: https://www.facebook.com/thedrivex
+                    - img
+                  - link:
+                    - /url: https://www.linkedin.com/company/the-drivex/
+                    - img
+                  - link:
+                    - /url: https://www.youtube.com/@DriveX01
+                    - img
+                  - link:
+                    - /url: https://www.instagram.com/thedrivex/
+                    - img
+                  - link:
+                    - /url: https://x.com/thedrivexindia
+                    - img
+                - button:
+                  - generic: Corporate Affairs
+                  - img
+              - generic:
+                - generic:
+                  - paragraph: Quick Links
+                  - generic:
+                    - generic:
+                      - link:
+                        - /url: /buy-used-bikes-in-bangalore
+                        - text: Buy
+                    - generic:
+                      - link:
+                        - /url: /sell-bikes-in-bangalore
+                        - text: Sell
+                    - generic:
+                      - link:
+                        - /url: /bike-services-in-bangalore
+                        - text: Service
+                    - generic:
+                      - link:
+                        - /url: /bike-valuation
+                        - text: Bike Resale Value
+                    - generic:
+                      - link:
+                        - /url: /about-us
+                        - text: About Us
+                    - generic:
+                      - link:
+                        - /url: /blogs
+                        - text: Blogs
+                    - generic:
+                      - link:
+                        - /url: /media
+                        - text: Media
+                    - generic:
+                      - link:
+                        - /url: /finance
+                        - text: DriveX Finance
+                    - generic:
+                      - link:
+                        - /url: /become-a-dealer
+                        - text: Become a Dealer
+                    - generic:
+                      - link:
+                        - /url: https://drivex.zohorecruit.com/jobs/Careers
+                        - text: Careers
+                    - generic:
+                      - link:
+                        - /url: /privacy-policy
+                        - text: Privacy Policy
+                    - generic:
+                      - link:
+                        - /url: /terms
+                        - text: Terms of Service
+              - generic:
+                - paragraph: Corporate Address
+                - generic: "DriveX Mobility Pvt. Ltd. TWA – Sindhu Building, Ground Floor BBMP #06, 7th Main, 80 Feet Road, 3rd Block, Koramangala, Bengaluru – 560034 Email: support@drivex.in"
+            - generic:
+              - paragraph: ©2025 DriveX Mobility Pvt Ltd. All rights reserved.
+    - list
+  - listbox [ref=e1]:
+    - 'option "Sort by: Recommended" [active] [selected] [ref=e2]':
+      - img [ref=e5]
+      - generic [ref=e7]: "Sort by: Recommended"
+    - 'option "Sort by: Newest First" [ref=e8]':
+      - generic [ref=e10]: "Sort by: Newest First"
+    - 'option "Sort by: Closest to you" [ref=e11]':
+      - generic [ref=e13]: "Sort by: Closest to you"
+    - 'option "Sort by: Price - Low to High" [ref=e14]':
+      - generic [ref=e16]: "Sort by: Price - Low to High"
+    - 'option "Sort by: Price - High to Low" [ref=e17]':
+      - generic [ref=e19]: "Sort by: Price - High to Low"
+    - 'option "Sort by: KMs driven - High to Low" [ref=e20]':
+      - generic [ref=e22]: "Sort by: KMs driven - High to Low"
+    - 'option "Sort by: KMs driven - Low to High" [ref=e23]':
+      - generic [ref=e25]: "Sort by: KMs driven - Low to High"
+    - 'option "Sort by: Year - New to Old" [ref=e26]':
+      - generic [ref=e28]: "Sort by: Year - New to Old"
+```

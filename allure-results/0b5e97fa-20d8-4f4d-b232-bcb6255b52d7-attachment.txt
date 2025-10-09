@@ -1,0 +1,12 @@
+₹ 14,000
+Loding URL https://www.drivex.in/?search=true
+Clicking on (//p[contains(text(),'Bangalore')])[2]
+Loding URL https://www.drivex.in/?search=true
+entering textRoyal Enfield classic 350
+Clicking on div[data-test-id='search-test-results']:nth-of-type(1)
+Clicking on button[role='combobox']
+getByextPrice - Low to High
+Clicking on div[data-test-id=plp-product-card-0]
+₹1,48,500 
+bikewalaprice 14000
+drivexprice 148500

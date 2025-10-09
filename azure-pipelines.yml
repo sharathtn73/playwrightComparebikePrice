@@ -1,0 +1,47 @@
+trigger:
+  - main  # or your branch name
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+variables:
+  CI: 'true'
+
+steps:
+  # 1️⃣ Checkout source code
+  - task: Checkout@1
+    displayName: 'Checkout repository'
+  
+  # 2️⃣ Setup Node.js
+  - task: NodeTool@0
+    inputs:
+      versionSpec: '18.x'
+    displayName: 'Install Node.js'
+
+  # 3️⃣ Install dependencies
+  - script: npm ci
+    displayName: 'Install dependencies'
+
+  # 4️⃣ Install Playwright Browsers
+  - script: npx playwright install --with-deps
+    displayName: 'Install Playwright browsers'
+
+  # 5️⃣ Run Playwright tests
+  - script: npx playwright test --reporter=html
+    displayName: 'Run Playwright tests'
+
+  # 6️⃣ Publish Test Results (JUnit XML)
+  - task: PublishTestResults@2
+    displayName: 'Publish Test Results'
+    condition: succeededOrFailed()
+    inputs:
+      testResultsFiles: '**/results.xml'
+      testRunTitle: 'Playwright Tests'
+
+  # 7️⃣ Publish HTML report as a pipeline artifact
+  - task: PublishPipelineArtifact@1
+    displayName: 'Publish Playwright HTML Report'
+    condition: succeededOrFailed()
+    inputs:
+      targetPath: 'playwright-report'
+      artifact: 'playwright-report'
