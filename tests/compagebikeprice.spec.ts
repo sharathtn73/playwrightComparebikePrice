@@ -14,3 +14,10 @@ test.only('get lowest second hand bike price',async({bikewala,drivex})=>{
     
 
 })
+
+test.afterEach(async ({ page }, testInfo) => {
+  if (testInfo.status !== testInfo.expectedStatus) {
+    // Test has failed
+    await page.screenshot({ path: `screenshots/${testInfo.title}.png`, fullPage: true });
+  }
+});

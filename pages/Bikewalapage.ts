@@ -44,6 +44,7 @@ enum checkboxvalues{
 
   const page1Promise = this.page.waitForEvent('popup');
   await this.page.locator('h3').nth(0).click();
+  await this.page.screenshot({ path: 'screenshot.png' });
   const page1 = await page1Promise;
   const price=await page1.locator('span').filter({ hasText: '₹' }).nth(0).textContent();
   await page1.close();

@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","22275","get lowest second hand bike price","chromium","Thu Oct 09 07:43:05 IST 2025","passed","Thu Oct 09 07:43:28 IST 2025","","compagebikeprice.spec.ts","",""
