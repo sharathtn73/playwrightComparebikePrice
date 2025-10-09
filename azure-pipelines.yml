@@ -1,47 +1,62 @@
 trigger:
-  - main  # or your branch name
+  branches:
+    include:
+    - main
+    - develop
 
 pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  CI: 'true'
+  NODE_VERSION: '18.x'
 
-steps:
-  # 1️⃣ Checkout source code
-  - task: Checkout@1
-    displayName: 'Checkout repository'
-  
-  # 2️⃣ Setup Node.js
-  - task: NodeTool@0
-    inputs:
-      versionSpec: '18.x'
-    displayName: 'Install Node.js'
-
-  # 3️⃣ Install dependencies
-  - script: npm ci
-    displayName: 'Install dependencies'
-
-  # 4️⃣ Install Playwright Browsers
-  - script: npx playwright install --with-deps
-    displayName: 'Install Playwright browsers'
-
-  # 5️⃣ Run Playwright tests
-  - script: npx playwright test --reporter=html
-    displayName: 'Run Playwright tests'
-
-  # 6️⃣ Publish Test Results (JUnit XML)
-  - task: PublishTestResults@2
-    displayName: 'Publish Test Results'
-    condition: succeededOrFailed()
-    inputs:
-      testResultsFiles: '**/results.xml'
-      testRunTitle: 'Playwright Tests'
-
-  # 7️⃣ Publish HTML report as a pipeline artifact
-  - task: PublishPipelineArtifact@1
-    displayName: 'Publish Playwright HTML Report'
-    condition: succeededOrFailed()
-    inputs:
-      targetPath: 'playwright-report'
-      artifact: 'playwright-report'
+stages:
+- stage: Test
+  displayName: 'Run Playwright Tests'
+  jobs:
+  - job: PlaywrightTests
+    displayName: 'Execute Playwright Test Suite'
+    steps:
+    
+    - task: NodeTool@0
+      displayName: 'Install Node.js'
+      inputs:
+        versionSpec: $(NODE_VERSION)
+    
+    - script: |
+        npm ci
+      displayName: 'Install dependencies'
+    
+    - script: |
+        npx playwright install --with-deps
+      displayName: 'Install Playwright browsers'
+    
+    - script: |
+        npx playwright test
+      displayName: 'Run Playwright tests'
+      continueOnError: true
+    
+    - task: PublishTestResults@2
+      displayName: 'Publish test results'
+      condition: always()
+      inputs:
+        testResultsFormat: 'JUnit'
+        testResultsFiles: '**/test-results/junit.xml'
+        failTaskOnFailedTests: true
+        testRunTitle: 'Playwright Test Results'
+    
+    - task: PublishPipelineArtifact@1
+      displayName: 'Publish Playwright report'
+      condition: always()
+      inputs:
+        targetPath: 'playwright-report'
+        artifact: 'playwright-report'
+        publishLocation: 'pipeline'
+    
+    - task: PublishPipelineArtifact@1
+      displayName: 'Publish test artifacts'
+      condition: failed()
+      inputs:
+        targetPath: 'test-results'
+        artifact: 'test-results'
+        publishLocation: 'pipeline'
