@@ -28,7 +28,7 @@ jobs:
         run: npx playwright install
 
       - name: Run Playwright tests
-        run: npx playwright test --headed=false
+        run: npx playwright test --headless
 
       - name: Upload test results (if any)
         if: failure()
