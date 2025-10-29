@@ -32,7 +32,7 @@ async getLowestPrice(bike:string){
     await this.bikepage.clickonElement("div[data-test-id=plp-product-card-0]");
     const price2=await this.page.locator("p[class*='flex items-center']").nth(0).textContent();
     let drivexprice:any=0;
-    console.log(price2);
+   // console.log(price2);
     if(price2.includes("lakhs")){   
      drivexprice=price2?.split("₹")[1].trim().replace(/,/g, '').split(" ")[0];
     }else{
