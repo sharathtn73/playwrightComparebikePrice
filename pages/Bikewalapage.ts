@@ -37,8 +37,9 @@ enum checkboxvalues{
 
   await this.page.locator(bikewaladata.royalEnfiled).first().click();
   await this.page.waitForLoadState('domcontentloaded');
-  await this.page.waitForTimeout(2000);
-  await this.page.getByRole('checkbox', { name: bikecheck }).check();
+  await this.page.waitForTimeout(3000);
+   console.log(bikecheck+"##############"); 
+  await this.page.getByRole('checkbox', { name:bikecheck }).check();
   await this.page.waitForSelector(bikewaladata.SortBy);
   await this.page.selectOption(bikewaladata.SortBy, '2');
 
